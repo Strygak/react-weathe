@@ -1,0 +1,9 @@
+.App {
+  margin: auto;
+  padding-top: 5%;
+  text-align: center;
+}
+
+#city-enter {
+  margin: 10px;
+}
